@@ -3,6 +3,7 @@ import { ChatMessageDto } from '../models/chatMessageDto';
 
 @Injectable({
   providedIn: 'root'
+  System.out.println("Forking Done");
 })
 export class WebSocketService {
 
